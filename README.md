@@ -1,9 +1,5 @@
 # Movidius Face Detection
 
-## Demo video
-[![Demo video](picture/pi.JPG)](https://www.youtube.com/watch?v=RGW5E_IfAfY)
-
-
 About movidius: https://developer.movidius.com/
 
 ## Raspberry Pi Steps
